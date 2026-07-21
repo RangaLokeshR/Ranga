@@ -1,0 +1,8 @@
+[project]
+name = "ranga"
+version = "0.1.0"
+description = "Personal AI Companion"
+authors = [
+    {name = "Ranga Lokesh"}
+]
+requires-python = ">=3.12"
